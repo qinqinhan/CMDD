@@ -1,6 +1,3 @@
-This code implements the CMDD. We use Python 3.9 to implement the proposed method, and all experiments are run on the machine of linux system. 
-To run the model, you need to put the dataset file in the Multivariate_ts, set the necessary hyperparameters, and run the python file train.py.
-
 # LONG-TAILED TIME SERIES CLASSIFICATION WITH NOISY LABELS
 
 The source code is for reproducing experiments of the paper entitled "LONG-TAILED TIME SERIES CLASSIFICATION WITH NOISY LABELS"
@@ -22,6 +19,7 @@ pytorch install
 
 # Supplement
 All modules have been uploaded, and the complete training file will be uploaded after this paper is accepted for publication.
+
 
 
 
